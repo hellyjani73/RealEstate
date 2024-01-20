@@ -12,7 +12,7 @@ Welcome to the Real Estate Website project! This simple website showcases proper
 
 To explore the Real Estate Website, follow these steps:
 
-1. Clone the repository:
+# Clone the repository:
 git clone https://github.com/hellyjani73/real-estate-website.git
 
 Open the index.html file in your preferred web browser.
